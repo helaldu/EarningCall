@@ -10,7 +10,11 @@ __pycache__/
 topic_model_earnings_calls/
 sentence_embeddings*
 
+# Reference/source files kept outside this GitHub repo
+data/landmark_studies/
+data/Jung_2024_WTT.pdf
+data/docs.txt
+
 # Local environment files
 .env
 .env.*
-
