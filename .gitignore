@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.venv*/
+.uv-cache/
+.ipynb_checkpoints/
+
+# Large generated model artifacts
+topic_model_earnings_calls/
+sentence_embeddings*
+
+# Local environment files
+.env
+.env.*
+
