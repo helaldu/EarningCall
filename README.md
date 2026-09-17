@@ -9,10 +9,5 @@ Project workspace for earnings call keyword extraction, topic modeling, and dyna
 - `results/` - generated tables, figures, and analysis outputs
 - `notebooks/` - exploratory and modeling notebooks
 
-## Typical Workflow
 
-1. Put source files in `data/`.
-2. Run analysis scripts from `scripts/`.
-3. Save generated tables and figures in `results/`.
-4. Keep exploratory notebook work in `notebooks/`.
 
